@@ -1,5 +1,5 @@
 # Binning-Discretization-_-Quantile-Binning-_-KMeans-Binning
-## credits:bit.ly/38qpuDB
+## credits: bit.ly/38qpuDB
 ## binning:Discretization  is the process  of transforming continuous variables into discrete variables by creating a set of contiguous intervals that span the range of the variable's values .discretization is also called  binningwe use binning to
 i) To handle outliers
 ii)To improve the value spread
